@@ -1,1 +1,1 @@
-worker: pyghon dispatcher.py
+worker: python dispatcher.py
